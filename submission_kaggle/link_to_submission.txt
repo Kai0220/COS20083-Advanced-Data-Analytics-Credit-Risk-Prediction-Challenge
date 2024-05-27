@@ -1,1 +1,3 @@
 https://www.kaggle.com/code/jessetingwenkai/jtxp-assignment2-final/notebook
+
+As shown in the leaderboard, the highest score is 0.493. However, for the final submission, the notebook use is 0.490.
