@@ -31,6 +31,6 @@ The dataset is provided by Home Credit and hosted on Kaggle. It includes demogra
 
 ## Prepared By
 
-Jesse Ting Wen Kai,  
+Jesse Ting Wen Kai
 Chang Xiang Peng
 
